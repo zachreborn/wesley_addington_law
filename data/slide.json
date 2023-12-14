@@ -1,11 +1,25 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
+    "title": "Wesley Addington, can help you in your time of need.",
     "image": "img/slide/slide01.jpg"
   },
   {
-    "title": "Sample text here...",
+    "title": "Wesley Addington, can help you in your time of need.",
     "image": "img/slide/slide02.jpg",
     "color": "text-black"
+  },
+  {
+    "title": "Wesley Addington, can help you in your time of need.",
+    "image": "img/slide/wes_beer.jpg"
+  },
+  {
+    "title": "Wesley Addington, can help you in your time of need.",
+    "image": "img/slide/photo_of_someone_on_a_motorcycle_slipping_on_grass.png",
+    "color": "text-white"
+  },
+  {
+    "title": "Wesley Addington, can help you in your time of need.",
+    "image": "img/slide/an_old_woman_shelling_maryland_blue_crabs_on_the_dock.png",
+    "color": "text-white"
   }
 ]

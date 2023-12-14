@@ -1,7 +1,7 @@
 +++
-author = "Hugo Authors"
+author = "Zachary Hill"
 title = "Placeholder Text"
-date = "2019-03-09"
+date = "2023-11-09"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "markdown",
