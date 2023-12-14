@@ -1,11 +1,10 @@
-baseURL = 'https://zachreborn.github.io/wesley_addington_law/'
+baseURL = 'https://zachreborn.github.io'
 languageCode = 'en-us'
 title = 'Wesley A. Addington'
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
-
 
 # If you're using Google Analytics, you can enable this feature.
 #googleAnalytics = "UA-12345678-1"
