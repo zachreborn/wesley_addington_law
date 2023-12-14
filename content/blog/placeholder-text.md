@@ -3,6 +3,7 @@ author = "Zachary Hill"
 title = "Placeholder Text"
 date = "2023-11-09"
 description = "Lorem Ipsum Dolor Si Amet"
+image = "img/wesley_a_addington.webp"
 tags = [
     "markdown",
     "text",

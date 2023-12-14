@@ -3,6 +3,7 @@ author = "Zachary Hill"
 title = "Emoji Support"
 date = "2019-03-05"
 description = "Guide to emoji usage in Hugo"
+image = "img/wesley_a_addington.webp"
 tags = [
     "emoji",
 ]
