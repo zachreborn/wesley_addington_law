@@ -71,9 +71,3 @@ enableRobotsTXT = true
     name = "Home"
     url = "/"
       weight = 1
-
-  [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
