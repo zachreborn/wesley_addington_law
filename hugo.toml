@@ -1,4 +1,4 @@
-baseURL = 'https://zachreborn.github.io/wesley_addington_law/'
+baseURL = 'https://example.com/'
 languageCode = 'en-us'
 title = 'Wesley A. Addington'
 DefaultContentLanguage = "en"
